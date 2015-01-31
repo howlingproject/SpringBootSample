@@ -19,3 +19,5 @@ target
 .idea
 *.jar
 .DS_Store
+bin/
+tmp/
